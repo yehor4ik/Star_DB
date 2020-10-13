@@ -1,0 +1,14 @@
+.item-list .list-group-item {
+    cursor: pointer;
+  }
+  
+  .item-list .list-group-item:hover {
+    background-color: #444;
+  }
+
+  .default-height {
+    padding: 1rem;
+    position: relative;
+    min-height: 160px;
+    background-color: #282828;  
+  }
